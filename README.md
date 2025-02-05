@@ -51,11 +51,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dynamodb" height="30" alt="amazondynamodb logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="cloudflare logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="30" alt="netlify logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
